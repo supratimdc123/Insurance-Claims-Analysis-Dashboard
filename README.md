@@ -7,9 +7,17 @@ An interactive **Power BI dashboard** that centralizes and analyzes insurance po
 ## 📊 Overview
 Insurance companies often struggle with fragmented data spread across multiple sources. This dashboard consolidates policy and claims data into a single platform, offering clear insights into customer behavior, claims patterns, and potential risk factors.
 
+### 🛠️ Deployed Link
+https://app.powerbi.com/links/WQaXv5_xu4?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare
+
 ---
 
 ## 🚀 Key Features
+
+## 📸 Dashboard Preview
+![Dashboard Preview](Screenshots/preview.jpg)
+
+---
 
 ### **KPIs**
 - **Total Policies:** Monitor the size of the active customer base.
@@ -49,23 +57,19 @@ Built around two dynamic measures — **Total Claim Amount** and **Total Policie
 ---
 
 ## 📂 Repository Structure
+```text
 .
 ├── Data Tables/ # Data sources
-├── Dashboard.pbix # Power BI dashboard file
+├── Insurance Claims Analysis Report.pbix # Power BI dashboard file
 ├── README.md # Project documentation
 ├── Icons/ # Icons used in the dashboard
 └── Screenshots/ # Dashboard screenshots for quick view
-
----
-
-## 📸 Dashboard Preview
-![Dashboard Preview](Screenshots/dashboard_preview.png)
-
+```
 ---
 
 ## 📈 How to Use
 1. Download or clone this repository.
-2. Open the `Dashboard.pbix` file in Power BI Desktop.
+2. Open the `Insurance Claims Analysis Report.pbix` file in Power BI Desktop.
 3. Connect to your own data sources (if needed).
 4. Interact with the visualizations to explore insights.
 
